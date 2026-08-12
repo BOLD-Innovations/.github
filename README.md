@@ -1,1 +1,3 @@
-# .github
+Bold Innovations is a dedicated research and development firm focused on driving commercial value through invention and technical excellence. We operate as an end-to-end innovation engine, taking ideas from original concept through complete engineering development, rigorous quality assurance, and intellectual property protection. Once our technologies are fully vetted and patented, we license them to industry partners positioned for global scale.
+
+Our leadership team brings deep, multidisciplinary expertise across defense, health sciences, advanced engineering, and strategic marketing. By combining high-stakes technical discipline with a clear understanding of market dynamics, Bold Innovations delivers market-ready, high-value IP designed to solve complex problems and advance industries.
